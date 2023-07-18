@@ -5,11 +5,11 @@
 
 ## install
 1.打開terminal，Clone 此專案至本機電腦
+https://github.com/LeoChiang0917/My-First-React-Form.git
 
-git clone https://github.com/Keely1112/MyFirstReactForm.git
 2.開啟terminal
+cd my-app
 
-cd MyFirstReactForm
 3.安裝npm套件
 
 npm install
